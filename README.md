@@ -2,6 +2,10 @@
 
 This repository contains a comprehensive pipeline for generating and evaluating synthetic data using various state-of-the-art models, including privacy-preserving approaches.
 
+## Report & Results
+For more details on the methodology and results, see our report:
+[Synthetic Data Generation overleaf report](https://www.overleaf.com/read/xvysdrjnqnmq#0c159a)
+
 ## Project Structure
 
 ### Core Pipeline (`notebooks/pipeline/main.py`)
@@ -57,7 +61,4 @@ python -m notebooks.pipeline.main --experiment_name default_run
 - Automated visualization of results
 - Support for both standard and privacy-preserving models
 
-## Research Paper
-For more details on the methodology and results, see our report:
-[Synthetic Data Generation overleaf report](https://www.overleaf.com/read/xvysdrjnqnmq#0c159a)
 
