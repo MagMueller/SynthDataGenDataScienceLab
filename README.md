@@ -59,5 +59,5 @@ python -m notebooks.pipeline.main --experiment_name default_run
 
 ## Research Paper
 For more details on the methodology and results, see our report:
-[Synthetic Data Generation](https://www.)
+[Synthetic Data Generation overleaf report](https://www.overleaf.com/read/xvysdrjnqnmq#0c159a)
 
